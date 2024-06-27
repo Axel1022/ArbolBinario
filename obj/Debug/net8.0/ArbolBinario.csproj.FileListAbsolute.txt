@@ -1,0 +1,14 @@
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\bin\Debug\net8.0\ArbolBinario.exe
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\bin\Debug\net8.0\ArbolBinario.deps.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\bin\Debug\net8.0\ArbolBinario.runtimeconfig.json
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\bin\Debug\net8.0\ArbolBinario.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\bin\Debug\net8.0\ArbolBinario.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\obj\Debug\net8.0\ArbolBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\obj\Debug\net8.0\ArbolBinario.AssemblyInfoInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\obj\Debug\net8.0\ArbolBinario.AssemblyInfo.cs
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\obj\Debug\net8.0\ArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\obj\Debug\net8.0\ArbolBinario.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\obj\Debug\net8.0\refint\ArbolBinario.dll
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\obj\Debug\net8.0\ArbolBinario.pdb
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\obj\Debug\net8.0\ArbolBinario.genruntimeconfig.cache
+C:\Users\IngCa\OneDrive\Escritorio\Carpetas\C2-2024\Estructura de datos\Ejercicios\ArbolBinario\obj\Debug\net8.0\ref\ArbolBinario.dll
